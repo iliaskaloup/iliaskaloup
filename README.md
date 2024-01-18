@@ -23,5 +23,7 @@ PhD Researcher
 
 
 Main interests lie in the areas of (i) artificial intelligence, with emphasis on Deep Learning and Natural Language Processing algorithms, 
+
 (ii) software engineering, with emphasis on the security of software systems and vulnerability prediction/detection, 
+
 and (iii) software development, focusing on web development and back-end through RESTful APIs.
