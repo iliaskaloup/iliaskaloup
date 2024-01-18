@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 
 Diploma (Integrated Bachelor’s and Master’s Degree) in Electrical and Computer Engineering
 
+
 PhD Researcher
 
-Main interests lie in the areas of (i) artificial intelligence, with emphasis on Deep Learning and Natural Language Processing algorithms, (ii) software engineering, with emphasis on the security of software systems and vulnerability prediction/detection, and (iii) software development, focusing on web development and back-end through RESTful APIs.
+
+
+Main interests lie in the areas of (i) artificial intelligence, with emphasis on Deep Learning and Natural Language Processing algorithms, 
+(ii) software engineering, with emphasis on the security of software systems and vulnerability prediction/detection, 
+and (iii) software development, focusing on web development and back-end through RESTful APIs.
